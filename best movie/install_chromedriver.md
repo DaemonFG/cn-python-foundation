@@ -23,8 +23,8 @@
 
  ![](https://i.imgur.com/axYVodW.png)
 
-2. 双击path,手动添加**C:\Program Files (x86)\Google\Chrome\Application\chromedriver\chromedriver.exe**，注意记得用**;**隔开
+2. 
+找到python的安装目录，将chromedriver.exe拷贝到该文件夹下。
+如果你不知道python的安装目录，双击path,找到python安装目录，我的是**C:\Users\Big Geng\AppData\Local\Programs\Python\Python36**，你们也可能是别的
 
- ![](https://i.imgur.com/IkUr09N.png)
-
-3. 确定后 **大功告成~**
+3.祝您成功，学习愉快~
